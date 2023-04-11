@@ -1,0 +1,86 @@
+export const BeeFarms = [
+  {
+    id: 1,
+    country: "SRI LANKA",
+    city: "Kandy",
+    farmName: "Nature Bee Sri Lanka",
+    description:
+      "Nature Bee Sri Lanka is a Honey farm located in Kundasale 20168. It is one of the 15 Honey farms in Sri Lanka. Address of Nature Bee Sri Lanka is 47 Dharshanapura Rd, Kundasale 20168, Sri Lanka.",
+    latitude: 7.2829967,
+    longitude: 80.692543,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 2,
+    country: "SRI LANKA",
+    city: "Kandy",
+    farmName: "SL Honey",
+    description:
+      "Our honey is pure and simple, from hive to home, just as nature intended. 100% Sri Lankan honey.",
+    latitude: 7.267784,
+    longitude: 80.598658,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 3,
+    country: "SRI LANKA",
+    city: "Kandy",
+    farmName: "මීමැසි ගම්මානය - උල්ලඳුපිටිය (Prasanna Bee project)",
+    description:
+      "මීමැසි ගම්මානය - උල්ලඳුපිටිය (Prasanna Bee project) is a Honey farm located in Werellagama 20080. It is one of the 15 Honey farms in Sri Lanka. Address of මීමැසි ගම්මානය - උල්ලඳුපිටිය (Prasanna Bee project) is No 29/2 ,Ulladupitiya, Werellagama 20080, Sri Lanka. මීමැසි ගම්මානය - උල්ලඳුපිටිය (Prasanna Bee project) can be contacted at 94812490119. මීමැසි ගම්මානය - උල්ලඳුපිටිය (Prasanna Bee project) is located in a remote area, with less than 1 listed places around it.",
+    latitude: 7.338194,
+    longitude: 80.582944,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 4,
+    country: "SRI LANKA",
+    city: "Kandy",
+    farmName: "Dreams Bee",
+    description:
+      "Dreams Bee is a Educational consultant located in 71 Dumbara Uyana, Kengalla 20186. It is one of the 802 Educational consultants in Sri Lanka. Address of Dreams Bee is 2, 71 Dumbara Uyana, Kengalla 20186, Sri Lanka. Website of Dreams Bee is https://dreams-bee.business.site. Dreams Bee can be contacted at 94754498440.",
+    latitude: 7.295194,
+    longitude: 80.70975,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 5,
+    country: "SRI LANKA",
+    city: "Kandy",
+    farmName: "Bee Keeping",
+    description:
+      "Beekeeping (or apiculture) is the maintenance of bee colonies, commonly in man-made beehives. Honey bees in the genus Apis are the most-commonly-kept...",
+    latitude: 7.215804,
+    longitude: 80.608613,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 6,
+    country: "SRI LANKA",
+    city: "Rambukkana",
+    farmName: "N.K.Bees",
+    description:
+      "N.K.Bees is a Honey farm located in Sri Lanka. It is one of the 15 Honey farms in Sri Lanka. Address of N.K.Bees is Tismalpola, Rambukkana 71116, Sri Lanka. N.K.Bees can be contacted at 94715979371.",
+    latitude: 7.326556,
+    longitude: 80.3485,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+  {
+    id: 7,
+    country: "SRI LANKA",
+    city: "Matugama",
+    farmName: "Ceylon Bee Honey",
+    description:
+      "Ceylon Bee Honey is a Honey farm located in Matugama 12100. It is one of the 15 Honey farms in Sri Lanka. Address of Ceylon Bee Honey is Wijaya Siri, Neboda Rd, Matugama 12100, Sri Lanka. Ceylon Bee Honey can be contacted at 94714403423",
+    latitude: 6.531333,
+    longitude: 80.113611,
+    latitudeDelta: 0.015,
+    longitudeDelta: 0.0121,
+  },
+];
